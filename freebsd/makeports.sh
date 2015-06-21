@@ -29,7 +29,7 @@ PORTNAMES="master chunkserver client metalogger cgi cgiserv cli netdump"
 
 PORTFILES="Makefile pkg-descr pkg-plist files"
 
-VERSION=2.0.71
+VERSION=2.0.72
 RELEASE=1
 
 if [ -f "$DISTFILEBASE" ]; then
